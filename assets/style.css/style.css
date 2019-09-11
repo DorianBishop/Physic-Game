@@ -1,7 +1,36 @@
+body {
+  background-color: #0e001f;
+  background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+  
+
+}
+
+
+p{font-family: 'Rock Salt', cursive;
+
+
+
+
+
+
+
+
+}
+
+
 
 
   .head-image {
-    width: 1460px;
-    height: 420px;
+  width: 1460px;
+  height: 420px;
     
+  }
+
+  h1 {
+    font-family: 'Bangers', cursive;
+    color: silver;
+  }
+
+  .main-container {
+    color: white
   }
